@@ -1,0 +1,38 @@
+.nav-menu-right{
+    position: fixed !important;
+    top: 150px;
+    right:  10px ;
+    z-index: 999;
+}
+li > a{
+    color: #767676;
+    font-size: 13px;
+}
+.nav > li > a:hover, .nav > li > a:focus{
+    color : #767676;
+    background-color: inherit;
+    text-decoration: underline;
+}
+
+pre{
+   /* background-color: darkslategray;
+    /*background-color: black;*/
+    /*color: white;*/
+}
+.opacity-0
+{
+    opacity: 0;
+}
+#back-top{
+    position: fixed;
+    bottom: 10%;
+    right: 2%;
+    z-index: 600;
+}
+.rules{
+font-style: italic;
+}
+.codered
+{
+    color: #D44950;
+}
