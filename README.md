@@ -10,6 +10,7 @@ Include validForm.js :
     ```javascript
     <script src="jquery.js" ></script>
     <script src="validForm.js" ></script>
+    ```
 
 Declare in html :
 
@@ -17,16 +18,19 @@ Declare in html :
     <form rule-form="validForm">
         ......
     <form />
+    ```
     
 Or in javascript :
 
     ```javascript
     <script> $("#MyForm").validForm(); </script>
+    ```
                
 Declare "rules-input" into input :
 
     ```javascript
     <input type="text" rules-input="{active:true, regExp:'.{2,10}'}" />
+    ```
     
 <br />
 Basic example : 
@@ -59,4 +63,4 @@ Basic example :
         <br><br>
         <input type="submit" name="submit" value="Submit" />
     </form>
-            
+    ```            
