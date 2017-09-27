@@ -3,7 +3,9 @@ ValidForm.js
 [More documentations](http://validForm.poohia.com)
 
 
-####ValidForm.js is a jQuery plugin that allows form validation with help from JSON inner HTML tags
+Author : AZOULAY Jordan
+
+#### ValidForm.js is a jQuery plugin that allows form validation with help from JSON inner HTML tags
 <br />
 Include validForm.js :
 
